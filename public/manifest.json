@@ -1,0 +1,8 @@
+{
+  "short_name": "Knight Protector Password Checker",
+  "name": "Knight Protector Password Checker",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
